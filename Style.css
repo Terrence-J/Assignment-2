@@ -1,0 +1,546 @@
+
+header{
+
+    background-image: url('IMAGES/hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1464px;
+    height: 932px;
+    padding-top: 24px;
+    padding-left: 24px;
+    padding-right: 20px;
+
+}
+
+.navbar-head{
+
+    width: Fixed (1,510px);
+    height: Hug (43px);
+    top: 43px;
+    padding: 0px 40px 0px 40px;
+    justify-content: space-between;
+    display: flex;
+    align-items: flex-start;
+   
+    
+    
+}
+
+.navbar{
+
+    width: Hug (204px);
+    height: Hug (19px);
+    top: 56px;
+    left: 654px;
+    gap: 73px;
+    margin-top: 10px;
+    align-items: flex-start;
+    line-height: 19.36px;
+
+}
+
+.navbar a{
+
+    margin-top: 20px;
+    margin-left: 20px;
+    font-family: 'Inter' , sans-serif;
+    width: 55px;
+    height: 19px;
+    color: #000000;
+    line-height: 19.36px;
+    text-decoration: none;
+
+
+}
+
+span{
+
+    color: #F8F8F8;
+}
+
+
+
+
+#ButtonS{
+
+   width: Fixed (166px);
+   height: Hug (43px);
+   padding-top: 12px;
+   padding-right: 20px;
+   padding-bottom: 12px;
+   padding-left: 20px;
+   margin-top: 20px;
+   margin-bottom: 12px;
+   background-color: transparent;
+   border: 2px solid #000000; 
+   gap: 10px;
+   color: #000000;
+}
+
+.dronoT{
+
+    width: Hug (657px);
+    height: Hug (278px);
+    margin-top: 200px;
+    margin-left: 400px;
+    gap: 48px;
+   
+    
+}
+
+.dronoT h1{
+
+    
+font-family: 'Inter' , sans-serif;
+font-size: 112px;
+font-weight: 400;
+line-height: 136px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+.dronoT h3{
+
+  width: 500px;
+  height: 39px;
+  font-family: 'Inter' , sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-left: 70px;
+  margin-bottom: 50px;
+
+}
+
+#rectangle{
+
+  width: 128px;
+  height: 7px;
+  background-color: #060606;
+  margin-left: 265px;
+  
+
+}
+
+.rectangle2{
+
+    background-color: #F8F8F8;
+    margin-top: 5px;
+
+}
+
+.frame17{
+
+   width: Hug (1,272px);
+   height: Hug (593px);
+   padding-top: 120px;
+   margin-left: 120px;
+   gap: 144px;
+
+}
+
+.frame13{
+
+    width: Hug (277px);
+    height: Hug (73px);
+    gap: 32px;
+
+}
+
+.latest{
+
+    width: 500px;
+    height: 39px;
+    font-family: 'Inter' sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+    margin-left: 380px;
+    margin-bottom: 50px;
+}
+
+.latest h3{
+
+  width: 500px;
+  height: 39px;
+  font-family: 'Inter' , sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+#rectangle4{
+
+  width: 69px;
+  height: 2px;
+  background-color: #060606;
+  margin-left: 590px;
+}
+
+.frame16{
+
+    width: Hug (1,272px);
+    height: Hug (376px);
+    gap: 48px;
+    display: flex;
+    margin-top: 100px;
+
+}
+
+.card{
+
+    width: 282px;
+    height: 376px;
+    background-color:white ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.frame15{
+
+   width: Hug (282px);
+   height: Hug (310px);
+   top: 1px;
+   gap: 48px;
+
+}
+
+.frame15 img{
+
+    width: 282px;
+    height: 188px;
+
+}
+
+.frame14{
+
+    width: Hug (213px);
+    height: Hug (74px);
+    gap: 32px;
+
+}
+
+ .text p{
+     
+    width:200px ;
+    text-align: center;
+    margin-left: 30px;
+ }
+
+#rectangle12{
+
+    width: 64px;
+    height: 4px;
+    background-color: #000000;
+    margin-top: 48px;
+    margin-bottom: 32px;
+    margin-left: 100px;
+
+}
+
+.drone8{
+
+    display: flex;
+}
+
+.drone8 img{
+
+    width: 752px;
+    height: 835px;
+    margin-top: 370px;
+
+}
+
+.rectange8{
+
+    width: 756px;
+    height: 835px;
+    margin-top: 370px;
+    left: 752px;
+    background-color: #FFFFFF;
+    
+
+}
+
+.frame18{
+
+    width: Hug (580px);
+    height: Hug (347px);
+    top: 2259px;
+    left: 854px;
+    gap: 84px;
+
+}
+
+.frame34{
+
+    width: Hug (163px);
+    height: Hug (73px);
+    gap: 32px;
+    padding-top: 175px;
+    padding-left: 280px;
+
+}
+
+.about h3{
+
+    width: 200px;
+    height: 39px;
+    font-family: 'Inter' sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: center;
+
+
+}
+
+
+#rectangle43{
+
+    width: 69px;
+    height: 2px;
+    background-color: #000000;
+    margin-top: 48px;
+    margin-left: 70px;
+
+}
+
+.paragraph p{
+
+    width: 580px;
+    height: 190px;
+    font-family: 'Inter' , sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: justify;
+    color: #000000;
+    margin-left: 120px;
+    margin-top: 80px;
+
+
+}
+
+.frame22{
+
+    width: Hug (650px);
+    height: Hug (240px);
+    margin-top: 50px;
+    margin-right: 10px;
+    gap: 32px;
+
+}
+
+.frame21{
+
+    width: Hug (800px);
+    height: Hug (169px);
+    gap: 32px;
+    margin-left: 490px;
+    margin-top: 20px;
+    padding-left: 50px;
+
+}
+
+.frame19{
+   
+    width: Hug (194px);
+    height: Hug (70px);
+    gap: 12px;
+    margin-left: 100px;
+
+}
+
+.subsribe h3{
+
+    width: 177px;
+    height: 39px;
+    font-family: 'Inter' sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 5px;
+    margin-left: 15px;
+
+
+}
+
+.paragraph2 p{
+
+    width: 194px;
+    height: 19px;
+    font-family: 'Inter' sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 5px;
+  
+    
+
+}
+
+
+.frame20 input{
+
+   width:  (800px);
+   height: Hug (67px);
+   padding-top: 12px ;
+   padding-bottom: 12px;
+   padding-right: 230px;
+   gap: 10px;
+   margin-right: 80px;
+   color: #000000;
+   border: none;
+
+}
+
+::placeholder{
+
+   width: 79px;
+   height: 19px;
+   opacity: 0.5px;
+   font-family: 'Inter' , sans-serif;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 19px;
+   letter-spacing: 0em;
+   text-align: center;
+   padding-right: 100px;
+
+}
+
+.frame3 {
+  
+    width: Hug (141px);
+    height: Hug (80px);
+    padding: 20px 40px 20px 40px;
+    border: 1px;
+    gap: 10px;
+    margin-left: 640px;
+    
+}
+
+.frame3 button{
+
+    width: 130px;
+    height: 40px;
+    font-family: 'Inter' sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #000000;
+    background: transparent;
+
+
+}
+
+
+.frame23{
+   
+   width: Hug (487px);
+   height: Hug (39px);
+   margin-top: 40px;
+   margin-left: 983px;
+   margin-bottom: 60px;
+   gap: 80px;
+   align-items: flex-start;
+   display: flex;
+
+}
+
+.frame23 a{
+
+    width: 120px;
+    height: 40px;
+    font-family: 'Inter' sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 60px;
+    text-decoration: none;
+    color: #000000;
+
+
+
+
+}
+
+.frame71{
+
+    width: Hug (169px);
+    height: Hug (39px);
+   /* padding: 20px 60px 20px 60px;*/
+    border: 1px;
+    gap: 10px;
+    margin-bottom: 5px;
+
+}
+
+.frame71 button{
+
+    width: 150px;
+    height: 30px;
+    font-family: 'Inter' sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 15px;
+    margin-bottom: 10px;
+    background-color: transparent;
+    border: 2px solid #000000; 
+
+
+    /*width: Fixed (166px);
+   height: Hug (43px);
+   padding-top: 12px;
+   padding-right: 20px;
+   padding-bottom: 12px;
+   padding-left: 20px;
+   margin-top: 20px;
+   margin-bottom: 12px;
+   background-color: transparent;
+   border: 2px solid #000000; 
+   gap: 10px;
+   color: #000000;*/
+}
+
+.frame29 i{
+
+    width: Hug (247px);
+    height: Hug (61px);
+    /*top: 3324px;*/
+    left: 40px;
+    gap: 32px;
+    margin-bottom: 40px;
+    font-size: 3rem;
+    color: #CBDEEC;
+    margin-right: 10px;
+    
+}
